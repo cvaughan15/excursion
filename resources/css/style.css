@@ -8,7 +8,7 @@ p {
     font-family: Verdana;
 }
 
-h1 {
+.headerfirst {
     font-family: Verdana;
     font-weight: normal;
     font-size: 50px;
@@ -16,7 +16,7 @@ h1 {
     text-align: center;
 }
 
-h2 {
+.headersecond {
     font-family: Verdana;
     font-weight: 300;
     font-size: 42px;
@@ -24,7 +24,7 @@ h2 {
     text-align: center;
 }
 
-h3 {
+.headerthird {
     font-family: Verdana;
     font-size: 21px;
     color: grey;
